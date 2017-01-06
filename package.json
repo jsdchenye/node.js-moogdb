@@ -1,0 +1,19 @@
+{
+  "name": "node.js-moogdb",
+  "version": "1.0.0",
+  "description": "react+redux+node+express+moogdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdchenye/node.js-moogdb.git"
+  },
+  "author": "jsdchenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsdchenye/node.js-moogdb/issues"
+  },
+  "homepage": "https://github.com/jsdchenye/node.js-moogdb#readme"
+}
